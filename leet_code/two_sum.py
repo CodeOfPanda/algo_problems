@@ -1,4 +1,5 @@
-
+# https://leetcode.com/problems/two-sum/submissions/
+# 01/23/2021
 
 def two_sum(array, target):
     first_element = 0
