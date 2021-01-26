@@ -4,10 +4,10 @@
 
 # given an int x
 #   if x == palindrome 
-#       return true if
+#       return true
 
 # an int is a palindrome when it reads the same backward as forward.
-# 121 == 121 is a palindrome -121 != 121- not a palindrome.
+#   121 == 121 is a palindrome -121 != 121- not a palindrome.
 
 
 def is_palindrome(x):
@@ -21,6 +21,3 @@ def is_palindrome(x):
         return True
 
     return False
-
-
-print(is_palindrome(-101))
